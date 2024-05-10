@@ -5,16 +5,9 @@ let proxyIP = 'workers.cloudflare.cyou'
 
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
-	'cf.090227.xyz:443#AD钙奶官方优选',
-	'time.is#AD钙奶官方优选',
-	'www.visa.com.sg#AD钙奶官方优选',
-	'skk.moe#AD钙奶官方优选',
-	'www.wto.org:8443',
 	'www.csgo.com:2087#AD钙奶官方优选',
 	'interactive.kohls.com:2096#@GONGYICF',
 	'cfip.xxxxxxxx.tk:2096#加入频道获取更多内容',
-	'cdn.kaiche.tk:2096#AD钙奶优选',
-	'sp.rweek.top:443#AD钙奶官方优选',
 	'aliyun.classelivre.eu.org:2096#AD钙奶官方优选',
 	'cf.090227.xyz:443#AD钙奶优选',
 ];
@@ -30,9 +23,7 @@ let addressesapi = [
 	'https://addressesapi.090227.xyz/ct',
 	'https://addressesapi.090227.xyz/cmcc',
 ];
-let addressescsv = [
-		//'https://raw.githubusercontent.com/yuanzi911/yxip1/main/result.csv', 
-];
+let addressescsv = [];
 let DLS = 8;
 
 let FileName = 'epeius';
