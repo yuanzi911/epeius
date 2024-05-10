@@ -1,6 +1,6 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
-let password = 'auto';
+let password = '8557692d-c228-48f0-b6f9-50d44d4a2096';
 let proxyIP = 'workers.cloudflare.cyou'
 
 let addresses = [
@@ -8,7 +8,7 @@ let addresses = [
 	'www.csgo.com:2087#AD钙奶官方优选',
 	'interactive.kohls.com:2096#@GONGYICF',
 	'cfip.xxxxxxxx.tk:2096#加入频道获取更多内容',
-	'aliyun.classelivre.eu.org:2096#AD钙奶官方优选',
+	'aliyun.yueuzi.cloudns.biz:2096#AD钙奶官方优选',
 	'cf.090227.xyz:443#AD钙奶优选',
 ];
 
