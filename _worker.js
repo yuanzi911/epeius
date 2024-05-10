@@ -5,15 +5,18 @@ let proxyIP = '';
 
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
-	'cf.090227.xyz:443#加入我的频道t.me/CMLiussss解锁更多优选节点',
-	'time.is#你可以只放域名 如下',
-	'www.visa.com.sg',
-	'skk.moe#也可以放域名带端口 如下',
+	'cf.090227.xyz:443#AD钙奶官方优选',
+	'time.is#AD钙奶官方优选',
+	'www.visa.com.sg#AD钙奶官方优选',
+	'skk.moe#AD钙奶官方优选',
 	'www.wto.org:8443',
-	'www.csgo.com:2087#节点名放在井号之后即可',
-	'icook.hk#若不带端口号默认端口为443',
-	'104.17.152.41#IP也可以',
-	//'[2606:4700:e7:25:4b9:f8f8:9bfb:774a]#IPv6也OK',
+	'www.csgo.com:2087#AD钙奶官方优选',
+	'interactive.kohls.com:2096#@GONGYICF',
+	'cfip.xxxxxxxx.tk:2096#加入频道获取更多内容',
+	'cdn.kaiche.tk:2096#AD钙奶优选',
+	'sp.rweek.top:443#AD钙奶官方优选',
+	'aliyun.classelivre.eu.org:2096#AD钙奶官方优选',
+	'cf.090227.xyz:443#AD钙奶优选',
 ];
 
 let sub = '';// 'trojan.fxxk.dedyn.io' 
